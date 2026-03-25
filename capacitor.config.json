@@ -1,0 +1,8 @@
+{
+  "appId": "com.testgame.app",
+  "appName": "Test Game",
+  "webDir": "www",
+  "android": {
+    "minWebViewVersion": 55
+  }
+}
